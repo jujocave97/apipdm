@@ -147,10 +147,7 @@
       "height": 1.74,
       "mass": 74,
       "gender": "male",
-      "homeworld": [
-        "Rodia",
-        "Tatooine"
-      ],
+      "homeworld":"Rodia",
       "wiki": "http://starwars.wikia.com/wiki/Greedo",
       "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c6/Greedo.jpg"
     },
